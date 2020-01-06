@@ -1,2 +1,2 @@
-common_msgs:reach_ros_node:reach_rs_ros_driver
+common_msgs
 -DCATKIN_DEVEL_PREFIX=/home/osama/global_ws/devel -DCMAKE_INSTALL_PREFIX=/home/osama/global_ws/install -G Unix Makefiles

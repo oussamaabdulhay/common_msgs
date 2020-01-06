@@ -126,9 +126,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/osama/global_ws/build/gtest/cmake_install.cmake")
-  include("/home/osama/global_ws/build/reach_ros_node/cmake_install.cmake")
   include("/home/osama/global_ws/build/common_msgs/cmake_install.cmake")
-  include("/home/osama/global_ws/build/reach_rs_ros_driver/cmake_install.cmake")
 
 endif()
 
