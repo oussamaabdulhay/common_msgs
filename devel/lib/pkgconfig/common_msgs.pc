@@ -1,0 +1,8 @@
+prefix=/home/osama/global_ws/devel
+
+Name: common_msgs
+Description: Description of common_msgs
+Version: 0.0.0
+Cflags: -I/home/osama/global_ws/devel/include -I/home/osama/global_ws/src/common_msgs/include
+Libs: -L/home/osama/global_ws/devel/lib -lcommon_msgs
+Requires: roscpp rospy std_msgs message_runtime

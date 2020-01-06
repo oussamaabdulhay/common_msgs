@@ -1,0 +1,8 @@
+prefix=/home/osama/global_ws/devel
+
+Name: reach_ros_node
+Description: Description of reach_ros_node
+Version: 0.5.0
+Cflags: 
+Libs: -L/home/osama/global_ws/devel/lib 
+Requires: 
